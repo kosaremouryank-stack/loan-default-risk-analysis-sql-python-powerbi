@@ -1,6 +1,6 @@
-# Loan Default Risk Analysis & Prediction Dashboard
+# 📦 Loan Default Risk Analysis & Prediction Dashboard
 
-## Project Overview
+## 🚀 Project Overview
 
 This project is an end-to-end **Loan Default Risk Analysis** solution built for Data Analyst / Business Analyst portfolio use. It analyzes borrower profiles, identifies default risk factors, builds machine learning models to predict loan defaults, and presents the final insights through a Power BI dashboard.
 
@@ -15,7 +15,7 @@ The project combines:
 
 ---
 
-## Business Problem
+## 🎯Business Problem
 
 Financial institutions face losses when borrowers fail to repay loans. The goal of this project is to:
 
@@ -89,7 +89,7 @@ Overall default rate:
 ```
 
 ---
-# Project Workflow
+#✅ Project Workflow
 
 ## Step 1: SQL Analysis
 
@@ -310,6 +310,24 @@ Used for advanced risk prediction.
 ### Business Insight
 
 Developed a 3-page Power BI dashboard with 6 KPIs, 10+ interactive visualizations, and dynamic slicers to monitor borrower risk, default trends, and portfolio performance.
+
+---
+## 📊 Sample Visuals
+
+### 📌 Executive Summary Page
+<p align="center">
+  <img src="Images/Executive Summary.png" alt="Executive Summary" width="600">
+</p>
+
+### 📌 Risk and Financial Analysis Page
+<p align="center">
+  <img src="Images/Risk and Financial Analysis.png" alt="Risk and Financial Analysis" width="600">
+</p>
+
+### 📌 Business Recommendations Page
+<p align="center">
+  <img src="Images/Business Recommendations.png" alt="Business Recommendations" width="600">
+</p>
 
 ---
 
