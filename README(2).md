@@ -89,7 +89,7 @@ Overall default rate:
 ```
 
 ---
-#✅ Project Workflow
+# ✅ Project Workflow
 
 ## Step 1: SQL Analysis
 
